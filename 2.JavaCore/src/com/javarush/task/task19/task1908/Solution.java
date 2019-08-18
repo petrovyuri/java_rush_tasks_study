@@ -1,37 +1,47 @@
 package com.javarush.task.task19.task1908;
 
 /* 
-Выделяем числа
+Выделяем числа из строки
 */
 
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
+import java.io.*;
 import java.util.ArrayList;
 
 public class Solution {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        FileReader fileReader = new FileReader(br.readLine());
+        String fileName1 = br.readLine();
+        String fileName2 = br.readLine();
+        FileReader fileReader = new FileReader(fileName1);
+        BufferedReader br2 = new BufferedReader(fileReader);
         ArrayList<Integer> arrayList = new ArrayList<>();
-        while (fileReader.ready()) {
+        while (br2.ready()) {
             arrayList.add(fileReader.read());
         }
         fileReader.close();
         br.close();
-
-        StringBuilder sb = new StringBuilder();
+        br2.close();
+        StringBuilder stringBuilder = new StringBuilder();
         for (int i = 0; i < arrayList.size(); i++) {
-            if (arrayList.get(i) >= 48 && arrayList.get(i) <= 57) {
-            } else arrayList.set(i, 32);
-            sb.append((char) arrayList.get(i).byteValue());
+            stringBuilder.append((char)arrayList.get(i).byteValue());
         }
-        String[] strings = sb.toString().split(" ");
-        for (int i = 0; i < strings.length; i++) {
-            if (strings[i].equals("")){
 
-            } else System.out.print(strings[i]+" ");
+        String[] strings = stringBuilder.toString().split(" ");
+
+        FileWriter fileWriter = new FileWriter(fileName2);
+        BufferedWriter bw = new BufferedWriter(fileWriter);
+        for (int i = 0; i < strings.length; i++) {
+            try {
+                Integer integer = Integer.valueOf(strings[i]);
+                fileWriter.write(integer+" ");
+            } catch (Exception e){
+
+            }
         }
+
+        fileWriter.close();
+        bw.close();
+
+
     }
 }

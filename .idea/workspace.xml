@@ -1,74 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Admin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/User01.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/1.JavaSyntax.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/Quest.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/2.JavaCore.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/Quest.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1819/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1819/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1820/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1820/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1821/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1821/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1822/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1822/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1823/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1823/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1824/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1824/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1825/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1825/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1826/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1826/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1827/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1827/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1908/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1908/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/3.JavaMultithreading.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/Quest.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/4.JavaCollections.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/Quest.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.OnlineInternship/5.OnlineInternship.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.OnlineInternship/src/Internship.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Instruction.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaRushTasks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/Quest.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/Quest.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1819/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1819/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1820/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1820/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1821/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1821/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1822/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1822/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1823/Solution$ReadThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1823/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1823/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1824/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1824/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1825/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1825/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1826/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1826/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1827/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1827/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/Quest.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/Quest.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/5.OnlineInternship/Internship.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.part4" beforeDir="false" afterPath="$PROJECT_DIR$/1.part4" afterDir="false" />
+    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="init">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/number" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.part2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.part3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.part4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1908/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1908/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -116,6 +58,9 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\JavaRushTasks" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\intellijSandbox\JavaRushTasks" />
     </key>
@@ -132,7 +77,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.Solution (1)">
     <configuration default="true" type="ArquillianJUnit" factoryName="">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -332,6 +277,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task19.task1908.Solution" />
+      <module name="2.JavaCore" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.task19.task1908.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javarush.task.task18.task1823.Solution" />
       <module name="2.JavaCore" />
@@ -527,14 +486,15 @@
       <item itemvalue="Application.Solution (2)" />
       <item itemvalue="Application.Solution (3)" />
       <item itemvalue="Application.Solution (4)" />
+      <item itemvalue="Application.Solution (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -559,6 +519,14 @@
       <workItem from="1485162014696" duration="83000" />
       <workItem from="1485177835943" duration="100000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1566112310861</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1566112310862</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -574,6 +542,10 @@
     <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
       <collection />
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
