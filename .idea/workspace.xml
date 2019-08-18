@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="Ридер обертка. Замена потока System.out. Изменение в строке подстроки">
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1913/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1913/Условие.jrtc" afterDir="false" />
+    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="Ридер обертка. Замена потока System.out. Выводим только цифры из строки">
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1914/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1914/Условие.jrtc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +79,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (3)">
+  <component name="RunManager" selected="Application.Solution (4)">
     <configuration default="true" type="ArquillianJUnit" factoryName="">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -336,13 +335,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task19.task1910.Solution" />
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task19.task1914.Solution" />
       <module name="2.JavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.task19.task1910.*" />
+          <option name="PATTERN" value="com.javarush.task.task19.task1914.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -485,19 +484,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Solution (1)" />
       <item itemvalue="Application.Solution (2)" />
       <item itemvalue="Application.Solution (3)" />
+      <item itemvalue="Application.Solution (4)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -585,7 +584,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566136342184</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Ридер обертка. Замена потока System.out. Выводим только цифры из строки">
+      <created>1566137381605</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1566137381605</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -623,7 +629,8 @@
     <MESSAGE value="Пунктуация. Поиск в файле всех символов пунктуации и удаление" />
     <MESSAGE value="Ридер обертка. Замена потока System.out. Изменение строчных букв в заглавные." />
     <MESSAGE value="Ридер обертка. Замена потока System.out. Изменение в строке подстроки" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ридер обертка. Замена потока System.out. Изменение в строке подстроки" />
+    <MESSAGE value="Ридер обертка. Замена потока System.out. Выводим только цифры из строки" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ридер обертка. Замена потока System.out. Выводим только цифры из строки" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -637,6 +644,11 @@
           <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1823/Solution.java</url>
           <line>62</line>
           <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1914/Solution.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="64" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
