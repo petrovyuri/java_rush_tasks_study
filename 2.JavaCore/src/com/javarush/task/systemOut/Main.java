@@ -1,4 +1,4 @@
-package com.javarush.task.SystemOut;
+package com.javarush.task.systemOut;
 
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
