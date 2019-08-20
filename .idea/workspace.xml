@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="Пример с адаптерами">
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1916/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1916/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file2" afterDir="false" />
+    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="Отслеживаем изменения. Работаем с двумя файлами и ищем изменения.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1917/FileConsoleWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1917/FileConsoleWriter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
     </list>
@@ -86,7 +83,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.FileConsoleWriter">
     <configuration default="true" type="ArquillianJUnit" factoryName="">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -286,13 +283,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.adapters.Main" />
+    <configuration name="FileConsoleWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task19.task1917.FileConsoleWriter" />
       <module name="2.JavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.adapters.*" />
+          <option name="PATTERN" value="com.javarush.task.task19.task1917.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -300,13 +297,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task19.task1912.Solution" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.adapters.Main" />
       <module name="2.JavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.task19.task1912.*" />
+          <option name="PATTERN" value="com.javarush.task.adapters.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -477,19 +474,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution (2)" />
       <item itemvalue="Application.Solution (3)" />
       <item itemvalue="Application.Solution (4)" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.FileConsoleWriter" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FileConsoleWriter" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -591,7 +588,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566213953867</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Отслеживаем изменения. Работаем с двумя файлами и ищем изменения.">
+      <created>1566298882637</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1566298882637</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -633,7 +637,8 @@
     <MESSAGE value="Ридер обертка. Замена потока System.out. Изменение в строке подстроки" />
     <MESSAGE value="Ридер обертка. Замена потока System.out. Выводим только цифры из строки" />
     <MESSAGE value="Пример с адаптерами" />
-    <option name="LAST_COMMIT_MESSAGE" value="Пример с адаптерами" />
+    <MESSAGE value="Отслеживаем изменения. Работаем с двумя файлами и ищем изменения." />
+    <option name="LAST_COMMIT_MESSAGE" value="Отслеживаем изменения. Работаем с двумя файлами и ищем изменения." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
