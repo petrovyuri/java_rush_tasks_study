@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="1919. Считаем зарплаты. Сортировка Map, добавление новой пары в мап и изменение значений.">
-      <change afterPath="$PROJECT_DIR$/1920" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1920/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1920/Условие.jrtc" afterDir="false" />
+    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="1920. Самый богатый.">
+      <change afterPath="$PROJECT_DIR$/1921" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1921/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1921/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1921/Условие.jrtc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
@@ -94,7 +95,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.Solution (1)">
     <configuration default="true" type="ArquillianJUnit" factoryName="">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -336,6 +337,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task19.task1921.Solution" />
+      <module name="2.JavaCore" />
+      <option name="PROGRAM_PARAMETERS" value="1921" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.task19.task1921.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javarush.task.task19.task1916.Solution" />
       <module name="2.JavaCore" />
@@ -531,14 +546,15 @@
       <item itemvalue="Application.Solution" />
       <item itemvalue="Application.FileConsoleWriter" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Solution (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -668,7 +684,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566455376991</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="1920. Самый богатый.">
+      <created>1566465837486</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1566465837486</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -714,7 +737,8 @@
     <MESSAGE value="Свой FileWriter" />
     <MESSAGE value="1918. Работа с тегами. Учимся работать с JSOUP. Парсить HTML" />
     <MESSAGE value="1919. Считаем зарплаты. Сортировка Map, добавление новой пары в мап и изменение значений." />
-    <option name="LAST_COMMIT_MESSAGE" value="1919. Считаем зарплаты. Сортировка Map, добавление новой пары в мап и изменение значений." />
+    <MESSAGE value="1920. Самый богатый." />
+    <option name="LAST_COMMIT_MESSAGE" value="1920. Самый богатый." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -733,6 +757,16 @@
           <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1914/Solution.java</url>
           <line>27</line>
           <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1921/Solution.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1921/Solution.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="102" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
