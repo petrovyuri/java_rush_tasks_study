@@ -7581,3 +7581,42 @@
 2019-08-22 15:09:53 INFO  ApacheHttpClient.getTask(469) - responseCode = 200
 2019-08-22 15:10:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
 2019-08-22 15:11:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 15:12:06 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-08-22 15:12:07 INFO  ApacheHttpClient.getFilteredTasks(322) - responseCode = 200
+2019-08-22 15:12:08 INFO  ApacheHttpClient.getTaskTemplateInfo(339) - responseCode = 200
+2019-08-22 15:12:09 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-08-22 15:12:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 15:13:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 15:14:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 15:15:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 15:16:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 15:17:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 15:18:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 15:19:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 15:20:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 15:21:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 15:22:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 15:23:19 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 15:24:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 15:25:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 15:26:14 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 15:27:13 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 15:28:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 15:29:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 15:30:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 15:31:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 15:32:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 15:33:22 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 15:34:06 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-08-22 15:34:07 INFO  ApacheHttpClient.getTask(469) - responseCode = 200
+2019-08-22 15:34:07 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-08-22 15:34:12 INFO  ApacheHttpClient.completed(28) - responseCode = 200
+2019-08-22 15:34:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 15:35:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 15:36:02 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-08-22 15:36:02 INFO  ApacheHttpClient.getTask(469) - responseCode = 200
+2019-08-22 15:36:04 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-08-22 15:36:08 INFO  ApacheHttpClient.completed(28) - responseCode = 200
+2019-08-22 15:36:08 INFO  ApacheHttpClient.getTask(469) - responseCode = 200
+2019-08-22 15:36:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 15:37:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
