@@ -7414,3 +7414,170 @@
 2019-08-22 13:07:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
 2019-08-22 13:07:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
 2019-08-22 13:07:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:08:04 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-08-22 13:08:04 INFO  ApacheHttpClient.getFilteredTasks(322) - responseCode = 200
+2019-08-22 13:08:05 INFO  ApacheHttpClient.getTaskTemplateInfo(339) - responseCode = 200
+2019-08-22 13:08:05 INFO  ApacheHttpClient.getTaskTemplateInfo(339) - responseCode = 200
+2019-08-22 13:08:06 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-08-22 13:08:07 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-08-22 13:08:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:09:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:10:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:11:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:12:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:13:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:14:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:15:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:16:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:17:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:18:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:19:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:20:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:21:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:22:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:23:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:24:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:25:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:26:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:27:13 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:28:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:29:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:30:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:31:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:32:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:33:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:34:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:35:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:36:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:37:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:38:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:39:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:40:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:41:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:42:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:43:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:43:57 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-08-22 13:43:58 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-08-22 13:43:58 INFO  ApacheHttpClient.getTask(469) - responseCode = 200
+2019-08-22 13:44:01 INFO  ApacheHttpClient.completed(28) - responseCode = 200
+2019-08-22 13:44:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:45:03 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-08-22 13:45:03 INFO  ApacheHttpClient.getTask(469) - responseCode = 200
+2019-08-22 13:45:13 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:46:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:46:51 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-08-22 13:46:52 INFO  ApacheHttpClient.getTask(469) - responseCode = 200
+2019-08-22 13:46:53 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-08-22 13:46:55 INFO  ApacheHttpClient.completed(28) - responseCode = 200
+2019-08-22 13:47:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:48:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:48:41 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-08-22 13:48:41 INFO  ApacheHttpClient.getTask(469) - responseCode = 200
+2019-08-22 13:48:42 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-08-22 13:48:46 INFO  ApacheHttpClient.completed(28) - responseCode = 200
+2019-08-22 13:49:16 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:50:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:51:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:51:53 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-08-22 13:51:53 INFO  ApacheHttpClient.getTask(469) - responseCode = 200
+2019-08-22 13:52:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:53:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:54:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:55:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:56:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:57:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:58:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 13:59:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 14:00:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 14:01:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 14:02:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 14:03:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 14:03:28 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-08-22 14:03:28 INFO  ApacheHttpClient.getTask(469) - responseCode = 200
+2019-08-22 14:03:29 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-08-22 14:03:32 INFO  ApacheHttpClient.completed(28) - responseCode = 200
+2019-08-22 14:04:00 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-08-22 14:04:01 INFO  ApacheHttpClient.getTask(469) - responseCode = 200
+2019-08-22 14:04:01 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-08-22 14:04:04 INFO  ApacheHttpClient.completed(28) - responseCode = 200
+2019-08-22 14:04:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 14:04:23 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-08-22 14:04:23 INFO  ApacheHttpClient.getTask(469) - responseCode = 200
+2019-08-22 14:04:24 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-08-22 14:04:28 INFO  ApacheHttpClient.completed(28) - responseCode = 200
+2019-08-22 14:05:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 14:05:23 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-08-22 14:05:23 INFO  ApacheHttpClient.getTask(469) - responseCode = 200
+2019-08-22 14:05:24 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-08-22 14:05:27 INFO  ApacheHttpClient.completed(28) - responseCode = 200
+2019-08-22 14:06:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 14:07:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 14:08:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 14:09:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 14:10:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 14:11:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 14:12:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 14:13:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 14:14:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:15:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:16:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:17:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:18:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:19:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:20:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:21:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:22:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:23:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:24:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:25:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:26:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:27:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:28:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:29:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:30:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:31:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:32:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:33:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:34:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:35:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:36:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:37:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:38:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:39:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:40:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:41:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:42:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:43:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:44:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:45:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:46:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:47:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:48:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:49:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:50:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:51:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:52:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:53:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:54:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:55:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:56:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:57:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:58:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 14:59:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 15:00:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 15:01:12 ERROR ApacheHttpClient.processExceptionSendEvent(109) - (super) : Error while sending the event to the server.
+2019-08-22 15:02:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 15:03:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 15:04:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 15:05:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 15:06:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 15:07:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 15:08:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 15:09:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 15:09:48 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-08-22 15:09:49 INFO  ApacheHttpClient.getTask(469) - responseCode = 200
+2019-08-22 15:09:50 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-08-22 15:09:53 INFO  ApacheHttpClient.completed(28) - responseCode = 200
+2019-08-22 15:09:53 INFO  ApacheHttpClient.getTask(469) - responseCode = 200
+2019-08-22 15:10:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-22 15:11:12 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
