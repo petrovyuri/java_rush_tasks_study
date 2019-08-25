@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="1925. Длинные слова. Поиск в тексте слов больше 6 символов">
-      <change afterPath="$PROJECT_DIR$/1926" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1926/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1926/Условие.jrtc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1925/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1925/Solution.java" afterDir="false" />
+    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="1929">
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/lv10lesson1/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/lv10lesson1/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/lv10lesson1/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/lv10lesson1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2001/Asset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2001/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2001/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2001.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/human" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,11 +41,6 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>internship</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -58,7 +61,10 @@
     <property name="js.eslint.eslintPackage" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -80,7 +86,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.Solution (2)">
     <configuration default="true" type="ArquillianJUnit" factoryName="">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -280,13 +286,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task19.task1911.Solution" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.lv10lesson1.Main" />
       <module name="2.JavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.task19.task1911.*" />
+          <option name="PATTERN" value="com.javarush.task.lv10lesson1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task19.task1928.Solution" />
+      <module name="2.JavaCore" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.task19.task1928.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -295,40 +315,12 @@
       </method>
     </configuration>
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task19.task1912.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task20.task2001.Solution" />
       <module name="2.JavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.task19.task1912.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task19.task1913.Solution" />
-      <module name="2.JavaCore" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javarush.task.task19.task1913.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task19.task1914.Solution" />
-      <module name="2.JavaCore" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javarush.task.task19.task1914.*" />
+          <option name="PATTERN" value="com.javarush.task.task20.task2001.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -343,6 +335,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.javarush.task.task19.task1925.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (6)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task19.task1927.Solution" />
+      <module name="2.JavaCore" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.task19.task1927.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -486,19 +492,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Solution (5)" />
-      <item itemvalue="Application.Solution (1)" />
-      <item itemvalue="Application.Solution (2)" />
-      <item itemvalue="Application.Solution (3)" />
-      <item itemvalue="Application.Solution (4)" />
       <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Solution (6)" />
+      <item itemvalue="Application.Solution (1)" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Solution (2)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution (6)" />
+        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -600,7 +606,21 @@
       <option name="project" value="LOCAL" />
       <updated>1566658277746</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="1927. Контекстная реклама. Считать текст из файла по строчно, вставить рекламу после каждой второй строки">
+      <created>1566714932194</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1566714932194</updated>
+    </task>
+    <task id="LOCAL-00013" summary="1929">
+      <created>1566715817146</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1566715817146</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -642,7 +662,9 @@
     <MESSAGE value="Ридер обертка. Замена потока System.out. Изменение в строке подстроки" />
     <MESSAGE value="Ридер обертка. Замена потока System.out. Выводим только цифры из строки" />
     <MESSAGE value="1925. Длинные слова. Поиск в тексте слов больше 6 символов" />
-    <option name="LAST_COMMIT_MESSAGE" value="1925. Длинные слова. Поиск в тексте слов больше 6 символов" />
+    <MESSAGE value="1927. Контекстная реклама. Считать текст из файла по строчно, вставить рекламу после каждой второй строки" />
+    <MESSAGE value="1929" />
+    <option name="LAST_COMMIT_MESSAGE" value="1929" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -662,26 +684,20 @@
           <line>27</line>
           <option name="timeStamp" value="64" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/lv10lesson1/Cat.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="character" language="JAVA" />
-        <watch expression="myTreeSet.last().indexOf(&quot;.part&quot;)" language="JAVA" />
-        <watch expression="myTreeSet.first().substring(0,myTreeSet.first().lastIndexOf(&quot;.part&quot;)" language="JAVA" />
-        <watch expression="myTreeSet.first()" language="JAVA" />
-        <watch expression="list.get(i)" language="JAVA" />
-        <watch expression="strings.get(i)" language="JAVA" />
-        <watch expression="strings[i].length()" language="JAVA" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/JavaRushTasks$Solution__2_.ic" NAME="Solution (2) Coverage Results" MODIFIED="1565440331506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>com.javarush.task.task18.task1822.*</FILTER>
-    </SUITE>
     <SUITE FILE_PATH="coverage/JavaRushTasks$Solution__1_.ic" NAME="Solution (1) Coverage Results" MODIFIED="1565382184805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.javarush.task.task18.task1820.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JavaRushTasks$Solution__2_.ic" NAME="Solution (2) Coverage Results" MODIFIED="1565440331506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.javarush.task.task18.task1822.*</FILTER>
     </SUITE>
   </component>
 </project>

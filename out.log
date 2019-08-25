@@ -3485,3 +3485,4 @@
 2019-08-25 20:32:35 ERROR PluginUtil.getTaskKeyFromConditionFile(688) - Error while retrieving the task key from the file.
 2019-08-25 20:32:35 ERROR PluginUtil.getTaskKeyFromConditionFile(688) - Error while retrieving the task key from the file.
 2019-08-25 20:32:41 WARN  PluginUtil.getCurrentTask(71) - Error while retrieving the task key.
+2019-08-25 20:33:07 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
