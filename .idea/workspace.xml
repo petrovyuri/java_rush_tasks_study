@@ -2,30 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="1927. Контекстная реклама. Считать текст из файла по строчно, вставить рекламу после каждой второй строки">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1925" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1926" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1925/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1925/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1926/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1926/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1927/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1927/Условие.jrtc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1928/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1928/Условие.jrtc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1819/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1819/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1820/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1820/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1821/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1821/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1822/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1822/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1823/Solution$ReadThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1823/Solution$ReadThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1823/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1823/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1824/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1824/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1825/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1825/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1826/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1826/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1827/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1827/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result" beforeDir="false" afterPath="$PROJECT_DIR$/result" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -102,7 +82,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (6)">
+  <component name="RunManager" selected="Application.Solution (1)">
     <configuration default="true" type="ArquillianJUnit" factoryName="">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -302,13 +282,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task19.task1912.Solution" />
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task19.task1928.Solution" />
       <module name="2.JavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.task19.task1912.*" />
+          <option name="PATTERN" value="com.javarush.task.task19.task1928.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -508,19 +488,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Solution (5)" />
-      <item itemvalue="Application.Solution (2)" />
       <item itemvalue="Application.Solution (3)" />
       <item itemvalue="Application.Solution (4)" />
       <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Solution (6)" />
+      <item itemvalue="Application.Solution (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution (6)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -622,7 +602,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566658277746</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="1927. Контекстная реклама. Считать текст из файла по строчно, вставить рекламу после каждой второй строки">
+      <created>1566714932194</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1566714932194</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
