@@ -15927,3 +15927,12 @@ java.lang.NullPointerException
 2019-08-25 12:00:00 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
 2019-08-25 12:00:01 INFO  ApacheHttpClient.completed(28) - responseCode = 200
 2019-08-25 12:00:01 INFO  ApacheHttpClient.getTask(469) - responseCode = 200
+2019-08-25 12:00:57 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-25 12:01:09 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-08-25 12:01:09 WARN  PluginUtil.getCurrentTask(71) - Error while retrieving the task key.
+2019-08-25 12:01:10 INFO  ApacheHttpClient.getTask(469) - responseCode = 200
+2019-08-25 12:01:57 INFO  ApacheHttpClient.sendEvent(516) - responseCode = 200
+2019-08-25 12:02:05 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-08-25 12:02:05 INFO  ApacheHttpClient.getFilteredTasks(322) - responseCode = 200
+2019-08-26 07:42:36 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-08-26 07:42:36 INFO  ApacheHttpClient.getFilteredTasks(322) - responseCode = 200
