@@ -1,18 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="2015. Serializable. Сохранение потока Thread">
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2016/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2016/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2017/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2017/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2018/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2018/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2019/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2019/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2020/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2020/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/your.file.name" afterDir="false" />
+    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="2020. Serializable. Сериализация человека">
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/arrays/MyArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/seriazeble/ObjectOutputStreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2021/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2021/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2022/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2022/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2023/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2023/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2024/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2024/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2025/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2025/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2026/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2026/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2027/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2027/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
@@ -27,7 +33,7 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="190" />
+    <option name="myElementSize" value="233" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -87,7 +93,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (6)">
+  <component name="RunManager" selected="Application.Solution (2)">
     <configuration default="true" type="ArquillianJUnit" factoryName="">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -287,13 +293,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MyArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.arrays.MyArrays" />
+      <module name="2.JavaCore" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectOutputStreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.seriazeble.ObjectOutputStreamTest" />
+      <module name="2.JavaCore" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.seriazeble.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task20.task2019.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task20.task2026.Solution" />
       <module name="2.JavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.task20.task2019.*" />
+          <option name="PATTERN" value="com.javarush.task.task20.task2026.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -301,27 +335,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task20.task2013.Solution" />
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task20.task2027.Solution" />
       <module name="2.JavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.task20.task2013.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task20.task2014.Solution" />
-      <module name="2.JavaCore" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javarush.task.task20.task2014.*" />
+          <option name="PATTERN" value="com.javarush.task.task20.task2027.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -343,27 +363,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (6)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task20.task2020.Solution" />
-      <module name="2.JavaCore" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javarush.task.task20.task2020.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task20.task2018.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task20.task2025.Solution" />
       <module name="2.JavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.task20.task2018.*" />
+          <option name="PATTERN" value="com.javarush.task.task20.task2025.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -479,19 +485,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Solution (5)" />
-      <item itemvalue="Application.Solution (3)" />
-      <item itemvalue="Application.Solution (4)" />
+      <item itemvalue="Application.ObjectOutputStreamTest" />
       <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Solution (1)" />
-      <item itemvalue="Application.Solution (6)" />
+      <item itemvalue="Application.MyArrays" />
+      <item itemvalue="Application.Solution (2)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (6)" />
+        <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.MyArrays" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.ObjectOutputStreamTest" />
       </list>
     </recent_temporary>
   </component>
@@ -663,7 +669,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566969591609</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="2020. Serializable. Сериализация человека">
+      <created>1566975148442</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1566975148442</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -714,7 +727,8 @@
     <MESSAGE value="2011. Externalizable" />
     <MESSAGE value="2011. Serializable. Сохранение и считывание обьекта Java" />
     <MESSAGE value="2015. Serializable. Сохранение потока Thread" />
-    <option name="LAST_COMMIT_MESSAGE" value="2015. Serializable. Сохранение потока Thread" />
+    <MESSAGE value="2020. Serializable. Сериализация человека" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020. Serializable. Сериализация человека" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -749,13 +763,22 @@
           <line>50</line>
           <option name="timeStamp" value="126" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2027/Solution.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2027/Solution.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="name.equals(human.name)" language="JAVA" />
-        <watch expression="name != null" language="JAVA" />
-        <watch expression="human.name != null" language="JAVA" />
+        <watch expression="dir.getI()" language="JAVA" />
+        <watch expression="dir.getJ()" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
@@ -763,8 +786,8 @@
     <SUITE FILE_PATH="coverage/JavaRushTasks$Solution__1_.ic" NAME="Solution (1) Coverage Results" MODIFIED="1565382184805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.javarush.task.task18.task1820.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/JavaRushTasks$Solution__2_.ic" NAME="Solution (2) Coverage Results" MODIFIED="1565440331506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>com.javarush.task.task18.task1822.*</FILTER>
+    <SUITE FILE_PATH="coverage/JavaRushTasks$Solution__2_.ic" NAME="Solution (2) Coverage Results" MODIFIED="1567061386088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.javarush.task.task20.task2027.*</FILTER>
     </SUITE>
   </component>
 </project>
